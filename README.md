@@ -36,13 +36,12 @@ To simplify things, 2 variables will be used for classification. These are:
 
 The problem with the label column is it's multi-labeled. We will simplify this into a binary-label using the methodology below:
 
-1. Original = New
-2. True = True
-3. Mostly-true = True
-4. Half-true = True
-5. Barely-true = False
-6. False = False
-7. Pants-fire = False
+1. True = True
+2. Mostly-true = True
+3. Half-true = True
+4. Barely-true = False
+5. False = False
+6. Pants-fire = False
 
 #### Fake and real news dataset
 Created by Clement Bisaillon the dataset contains 4 variables/columns split True & Fake dataset:
