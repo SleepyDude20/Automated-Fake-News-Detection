@@ -44,3 +44,9 @@ The problem with the label column is it's multi-labeled. We will simplify this i
 6. False = False
 7. Pants-fire = False
 
+#### Fake and real news dataset
+Created by Clement Bisaillon the dataset contains 4 variables/columns split True & Fake dataset:
+- Column 1: the title of the article
+- Column 2: the text of the article
+- Column 3: the subject of the article
+- Column 4: the date the article was posted
