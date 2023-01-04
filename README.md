@@ -50,3 +50,12 @@ Created by Clement Bisaillon the dataset contains 4 variables/columns split True
 - Column 2: the text of the article
 - Column 3: the subject of the article
 - Column 4: the date the article was posted
+
+#### Project Dataset
+The dataset will be comprised into a large dataset of both fake-and-real-news & the liar-dataset. This will be useful later for cross-validation
+
+
+# Code
+
+### DataClean&Prep.py
+Used for combining, cleaning & preparing the data. Datasets are first checked for duplicates, missing values, lower-cased & then trimmed-down of extra spaces. Next, the data is tokenized & stemmmed. This file may also include some exploratory data analysis
